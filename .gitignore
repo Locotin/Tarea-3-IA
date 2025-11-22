@@ -1,0 +1,7 @@
+# Dataset y archivo comprimido
+coffee_leaves/
+coffee_leaves.7z
+
+# Entorno virtual local
+.venv/
+
